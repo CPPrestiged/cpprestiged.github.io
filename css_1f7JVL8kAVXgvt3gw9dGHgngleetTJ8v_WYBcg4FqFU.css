@@ -1461,7 +1461,7 @@ main section#billboards .membership-button:hover {
     }
 main section#actions {
     position: relative;
-    margin: 21px auto 0 auto;
+    margin: 25px auto 0 auto;
     padding: 0;
     height: 100px;
     width: 980px;
@@ -1471,8 +1471,8 @@ main section#actions {
     border-radius: 5px;
     box-sizing: border-box
     }
-main section#actions .cp-logo {
-    padding-top: 15px
+main section#clientbtn {
+    padding-top: 20px
     }
 main section#actions div {
     top: -40px;
@@ -1490,11 +1490,8 @@ main section#actions div#create {
     text-align: left
     }
 main section#actions div#login {
-    position: absolute;
-    right: 0;
-    padding-right: 115px;
-    background: url(https://web.archive.org/web/20160411093043im_/http://cpassets-a.akamaihd.net/sites/default/themes/snowball/img/penguin-tourguide.png) no-repeat 228px 8px;
-    text-align: right
+    position: relative;
+    horizontal-align: baseline;
     }
 main section#actions a.action-button {
     -webkit-font-smoothing: antialiased;
@@ -1515,7 +1512,7 @@ main section div#error img {
     padding-right: 350px
     }
 .sunset_lang main section#actions div#login {
-    right: 185px
+
     }
 body.affiliate main #D_F_GameSection {
     height: 84%
@@ -1605,7 +1602,7 @@ footer p#footer-legal {
     width: 140px
     }
 .i18n-ru main section#actions .cp-logo {
-    padding-top: 22px
+
     }
 /*
      FILE ARCHIVED ON 09:30:43 Apr 11, 2016 AND RETRIEVED FROM THE
